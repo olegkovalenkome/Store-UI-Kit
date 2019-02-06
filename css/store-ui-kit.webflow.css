@@ -676,9 +676,9 @@ strong {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #000;
-  backdrop-filter: blur(2px);
-  opacity: 0.8;
+  background-color: rgba(0, 0, 0, 0.8);
+  -webkit-backdrop-filter: blur(10px); /* Safari 9+ */
+  backdrop-filter: blur(10px); /* Chrome and Opera */
 }
 
 .loading-icon {
