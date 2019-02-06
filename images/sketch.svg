@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>sketch</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Interface" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-v.-2.0-Copy" transform="translate(-705.000000, -598.000000)">
+            <g id="Section-A" transform="translate(267.000000, 168.000000)">
+                <g id="Buttons" transform="translate(424.000000, 362.000000)">
+                    <g id="Buy-Button">
+                        <g id="Made-for-Sketch" transform="translate(14.000000, 68.000000)">
+                            <g id="sketch">
+                                <polygon id="Path" fill="#FDB300" points="3.70163667 0.526523985 8.48288667 0 13.2641367 0.526523985 16.9657167 5.70249446 8.48288667 15.9920886 0 5.70243542"></polygon>
+                                <polygon id="Path" fill="#EA6C00" points="3.43598333 5.70249446 8.48288667 15.9920886 0 5.70243542"></polygon>
+                                <polygon id="Path" fill="#EA6C00" points="13.5297333 5.70249446 8.48283 15.9920886 16.9657167 5.70249446"></polygon>
+                                <polygon id="Path" fill="#FDAD00" points="3.43598333 5.70249446 13.5297333 5.70249446 8.48288667 15.9920886"></polygon>
+                                <polygon id="Path" fill="#FDD231" points="8.48288667 0 3.70158 0.526523985 3.43598333 5.70249446"></polygon>
+                                <polygon id="Path" fill="#FDD231" points="8.48283 0 13.2641367 0.526523985 13.5297333 5.70249446"></polygon>
+                                <path d="M16.9657167,5.70249446 L13.26408,0.526523985 L13.5297333,5.70249446 L16.9657167,5.70249446 Z M0,5.70249446 L3.70158,0.526523985 L3.43598333,5.70249446 L0,5.70249446 Z" id="Shape" fill="#FDAD00" fill-rule="nonzero"></path>
+                                <polygon id="Path" fill="#FEEEB7" points="8.48288667 0 3.43598333 5.70249446 13.5297333 5.70249446"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

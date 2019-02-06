@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="95.0334056%" y1="50%" x2="4.3641915%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#267FFC" offset="0%"></stop>
+            <stop stop-color="#0D62F8" offset="100%"></stop>
+        </linearGradient>
+        <path d="M33.3333333,6.66666667 L6.66666667,6.66666667 C5.745,6.66666667 5,7.41166667 5,8.33333333 L5,13.3333333 C5,14.255 5.745,15 6.66666667,15 C7.58833333,15 8.33333333,14.255 8.33333333,13.3333333 L8.33333333,10 L18.3333333,10 L18.3333333,31.6666667 L15,31.6666667 C14.0783333,31.6666667 13.3333333,32.4116667 13.3333333,33.3333333 C13.3333333,34.255 14.0783333,35 15,35 L25,35 C25.9216667,35 26.6666667,34.255 26.6666667,33.3333333 C26.6666667,32.4116667 25.9216667,31.6666667 25,31.6666667 L21.6666667,31.6666667 L21.6666667,10 L31.6666667,10 L31.6666667,13.3333333 C31.6666667,14.255 32.4116667,15 33.3333333,15 C34.255,15 35,14.255 35,13.3333333 L35,8.33333333 C35,7.41166667 34.255,6.66666667 33.3333333,6.66666667" id="path-2"></path>
+    </defs>
+    <g id="Interface" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-v.-2.0-Copy" transform="translate(-805.000000, -1711.000000)">
+            <g id="Section-C1" transform="translate(243.000000, 1606.000000)">
+                <g id="Rectangel-Icon" transform="translate(562.000000, 105.000000)">
+                    <g>
+                        <rect id="Background" fill="url(#linearGradient-1)" x="0" y="0" width="56" height="56" rx="10"></rect>
+                        <g id="Icon/Fill/text" transform="translate(8.000000, 8.000000)">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="Color" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="12px" viewBox="0 0 20 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Sketch Cloud</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="10" cy="6" rx="6.25" ry="6"></ellipse>
+    </defs>
+    <g id="Interface" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-v.-2.0-Copy" transform="translate(-661.000000, -3755.000000)">
+            <g id="Section-D" transform="translate(60.000000, 3497.000000)">
+                <g id="What's-Inside" transform="translate(394.000000, 0.000000)">
+                    <g id="Sketch-Cloud" transform="translate(207.000000, 256.000000)">
+                        <g transform="translate(0.000000, 2.000000)">
+                            <path d="M3.54166667,11.9945383 C1.56750228,11.890762 0,10.3211137 0,8.4 C0,6.4117749 1.67893219,4.8 3.75,4.8 C5.45962202,4.8 6.90203702,5.89828729 7.35343056,7.4 L10.2083333,7.4 L10.2083333,12 L3.54166667,12 L3.54166667,11.9945383 Z" id="Combined-Shape" fill="#FDAD00"></path>
+                            <path d="M12.6465694,7.4 C13.097963,5.89828729 14.540378,4.8 16.25,4.8 C18.3210678,4.8 20,6.4117749 20,8.4 C20,10.3882251 18.3210678,12 16.25,12 L9.58333333,12 L9.58333333,7.4 L12.6465694,7.4 Z" id="Combined-Shape" fill="#EA6C01"></path>
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Oval" fill="#FDD230" xlink:href="#path-1"></use>
+                            <ellipse id="Oval-Copy-3" fill="#FDAD00" mask="url(#mask-2)" cx="16.25" cy="8.4" rx="3.75" ry="3.6"></ellipse>
+                            <ellipse id="Oval-Copy-4" fill="#EA6C01" mask="url(#mask-2)" cx="3.75" cy="8.4" rx="3.75" ry="3.6"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

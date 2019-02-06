@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Loading</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Interface" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-v.-2.0-Copy" transform="translate(-1281.000000, -191.000000)" stroke="#FFFFFF" stroke-width="6">
+            <g id="Loading" transform="translate(1284.000000, 194.000000)">
+                <circle id="Oval" stroke-opacity="0.15" cx="28" cy="28" r="28"></circle>
+                <path d="M0,28 C0,43.463973 12.536027,56 28,56 C43.463973,56 56,43.463973 56,28 C56,12.536027 43.463973,0 28,0" id="Path" stroke-linecap="round">
+                  <animateTransform
+                  attributeType='xml'
+                  attributeName='transform'
+                  type='rotate'
+                  from='0 28 28'
+                  to='360 28 28'
+                  dur='0.8s'
+                  repeatCount='indefinite'
+                /></path>
+            </g>
+        </g>
+    </g>
+</svg>
