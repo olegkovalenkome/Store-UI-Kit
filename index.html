@@ -48,6 +48,7 @@
       'https://connect.facebook.net/en_US/fbevents.js');
     fbq('init', '1894034567332749');
     fbq('track', 'PageView');
+    fbq('track', 'InitiateCheckout');
   </script>
   <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1894034567332749&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->
@@ -73,7 +74,7 @@
       <div class="_16pt-space"></div><a href="" class="nav-link w-nav-link paddle_button" data-product="551248" data-theme="none" data-allow-quantity="false">Try for free</a>
       <div class="_30pt-space"></div>
 
-      <a href="" id="initiate-checkout" class="buy-button nav-buy-button w-inline-block paddle_button" data-product="551245" data-theme="none" data-allow-quantity="false">
+      <a href="" id="initiate-checkout" onclick="fbq('track', 'InitiateCheckout');" class="buy-button nav-buy-button w-inline-block paddle_button" data-product="551245" data-theme="none" data-allow-quantity="false">
         <div class="c2">Save 50% – Limited time</div>
         <div class="p2">Buy for $25</div>
       </a>
@@ -87,7 +88,7 @@
       <div class="p"><strong class="p">It&#x27;s clean iOS app template and a set of universal and resizable UI elements.</strong></div>
       <div class="buttons-container">
         <div>
-          <a href="#" id="initiate-checkout" class="buy-button w-inline-block paddle_button" data-product="551245" data-theme="none" data-allow-quantity="false">
+          <a href="#" id="initiate-checkout" onclick="fbq('track', 'InitiateCheckout');" class="buy-button w-inline-block paddle_button" data-product="551245" data-theme="none" data-allow-quantity="false">
             <div class="c2">Save 50% – Limited time</div>
             <div class="p2">Buy for $25</div>
           </a>
@@ -157,7 +158,7 @@
     <div class="inside-container w-container"><img src="images/Logo.png" width="66" alt="Store UI Kit Logo" class="logo-2">
       <h2 class="heading2 center white"><strong>Get Store UI Kit at 50% off</strong></h2>
       <div class="p4 white center">Get clean iOS app template and bunch of universal and resizable UI components with all future free updates.</div>
-      <a href="#" id="initiate-checkout" class="buy-button w-inline-block paddle_button" data-product="551245" data-theme="none" data-allow-quantity="false">
+      <a href="#" id="initiate-checkout" onclick="fbq('track', 'InitiateCheckout');" class="buy-button w-inline-block paddle_button" data-product="551245" data-theme="none" data-allow-quantity="false">
         <div class="c2">Save 50% – Limited time</div>
         <div class="p2">Buy for $25</div>
       </a>
@@ -188,12 +189,7 @@
   </div>
 
   <script type="text/javascript">
-  $( '#$initiate-checkout' ).click(function() {
-      fbq('track', 'InitiateCheckout', {
-          value: 0,
-          currency: 'USD',
-        });
-      });
+  $( '#$initiate-checkout' ).click(function() { fbq('track', 'InitiateCheckout'); });
   </script>
 
   <script src="https://d1tdp7z6w94jbb.cloudfront.net/js/jquery-3.3.1.min.js" type="text/javascript" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
